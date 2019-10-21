@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RechargeActivity">
+
+    <EditText
+        android:id="@+id/amount_edit"
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="334dp"
+        android:ems="10"
+        android:hint="@string/amount"
+        android:inputType="textPersonName"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="0dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="125dp"
+        android:layout_marginBottom="235dp"
+        android:text="@string/recharge"
+        android:background="@color/colorPrimary"
+        android:textColor="#FFFFFF"
+        android:layout_marginRight="125dp"
+        android:layout_alignParentRight="true" />
+
+    <EditText
+        android:id="@+id/uid_edit"
+        android:layout_width="match_parent"
+        android:layout_height="83dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="491dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/user_id"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="0dp" />
+
+</RelativeLayout>

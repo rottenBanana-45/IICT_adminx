@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IICT_admin</string>
+    <string name="rice">Rice</string>
+    <string name="chicken">Chicken</string>
+    <string name="egg_curry">Egg Curry</string>
+    <string name="lentil">Lentil</string>
+    <string name="pudding">Pudding</string>
+    <string name="khichuri">Khichuri</string>
+    <string name="update">UPDATE</string>
+    <string name="go_for_recharge">Go For Recharge</string>
+    <string name="update_menu_upper">UPDATE MENU</string>
+    <string name="recharge">Recharge</string>
+    <string name="ammount">Ammount</string>
+    <string name="user_id">User Id</string>
+    <string name="amount">Amount</string>
+    <string name="enter_recharge_amount">Enter Recharge Amount</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_menu">Update Menu</string>
+    <string name="user_account_recharge">User Account Recharge</string>
+    <string name="name">Name</string>
+    <string name="table">Table</string>
+    <array name="Availability">
+        <item>"Available"</item>
+        <item>"Not Available"</item>
+
+    </array>
+</resources>
